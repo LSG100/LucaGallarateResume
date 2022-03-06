@@ -1,12 +1,13 @@
 body{
   font-family: sans-serif;
   font-size:110%;
-  background-color: #122f8b73;
+  background-color: #398AB9; 
+  color:#EEEEEE ;
 }
 
 header {
   text-align: center;
-  background-color:#9c9c9c
+  background-color:#1C658C;
 }
 
 footer {
@@ -15,9 +16,13 @@ footer {
 }
 #sidebar{
     width: 100%;
-    background-color: #adadad;    
+    background-color: #1C658C;    
 }
 
 .navMenu{
-    list-style-type: style type none;
+    background-color: #1C658C;
+}
+
+img {
+      border-radius: 50%;
 }
